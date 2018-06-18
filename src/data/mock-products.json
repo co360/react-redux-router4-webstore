@@ -2,15 +2,15 @@
   "products": [
     {
       "id": 1,
-      "name": "I am Groot",
-      "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "name": "Product 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
       "keywords": [
-        "stuffed",
-        "plush",
-        "groot",
-        "guardians of the galaxy"
+        "durable",
+        "light-weight",
+        "long",
+        "waterproof"
       ],
-      "image": "1-groot.jpg",
+      "image": "1-product.jpg",
       "age": [
         "0",
         "+"
@@ -19,32 +19,32 @@
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear Action Doll",
-      "description": "Buzz Lightyear is a favorite of youngsters. He has a ray-gun, wings that can be retracted or extended on the push of a button, and a grin that could make any alien get a chill up their spine - should they have one.",
+      "name": "Product 2",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.",
       "keywords": [
-        "action figure",
-        "toy story",
-        "posable",
-        "requires batteries"
+        "durable",
+        "light-weight",
+        "long",
+        "waterproof"
       ],
-      "image": "2-buzz.jpg",
+      "image": "2-product.jpg",
       "age": [
         "3",
         "10"
       ],
-      "price": 38.50
+      "price": 38.99
     },
     {
       "id": 3,
-      "name": "Minion Dave",
-      "description": "Dave is a two-eyed and medium-sized minion with nice combed hair. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
+      "name": "Product 3",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla .",
       "keywords": [
-        "stuffed",
-        "plush",
-        "minions",
-        "Despicable Me"
+        "durable",
+        "light-weight",
+        "long",
+        "waterproof"
       ],
-      "image": "3-minion-dave.jpg",
+      "image": "3-product.jpg",
       "age": [
         "0",
         "10"
@@ -53,15 +53,15 @@
     },
     {
       "id": 4,
-      "name": "Minion Kevin",
-      "description": "Kevin is a tall, two-eyed minion with sprout cut hair and is usually seen wearing his golf apparel. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
+      "name": "Product 4",
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt est laborum.",
       "keywords": [
-        "stuffed",
-        "plush",
-        "minions",
-        "Despicable Me"
+        "durable",
+        "light-weight",
+        "long",
+        "waterproof"
       ],
-      "image": "4-minion-kevin.jpg",
+      "image": "4-product.jpg",
       "age": [
         "0",
         "10"
@@ -70,15 +70,15 @@
     },
     {
       "id": 5,
-      "name": "Minion Bob",
-      "description": "Bob is a short and bald minion with multi-colored eyes (green and brown). He often carries around a teddy bear that he owns called Tim, which is brown with yellow buttoned eyes. This plush version of him is extremely huggable and makes a great best friend for your young child. He is stitched well and has no small parts to choke on.",
+      "name": "Product 5",
+      "description": "Risus feugiat in ante metus dictum at tempor commodo. Eu tincidunt tortor aliquam nulla facilisi.",
       "keywords": [
-        "stuffed",
-        "plush",
-        "minions",
-        "Despicable Me"
+        "durable",
+        "light-weight",
+        "long",
+        "waterproof"
       ],
-      "image": "5-minion-bob.jpg",
+      "image": "5-product.jpg",
       "age": [
         "0",
         "10"
