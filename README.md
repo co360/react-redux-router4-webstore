@@ -1,2 +1,3 @@
-####`npm install` to install dependencies
-#### `npm start` to load
+1.) `npm install` 
+
+2.) `npm start` to load
